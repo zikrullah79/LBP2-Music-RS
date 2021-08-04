@@ -129,3 +129,5 @@ dmypy.json
 .pyre/
 
 BigML_Dataset_6100f0a85e269e0556001fe9.csv
+selected_data.csv
+res_tf_idf.npz
